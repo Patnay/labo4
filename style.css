@@ -1,0 +1,32 @@
+body{
+    color: white;
+    background-image: url(image/cinema.jpg) ;
+    background-size: cover;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.Films{
+    list-style-type:upper-latin;
+    color: white;
+    font-size: 15px;
+}
+.réalisateur{
+    color: yellowgreen;
+    font-size: 25px ;
+    list-style: none;
+  
+}
+.acteur{
+    list-style-type:disc;
+    color: white;
+   
+}
+h1{
+    padding-left: 20px;
+}
+li{
+    padding: 2px; 
+    /* (Donne un meilleur rendu :)) */
+}
